@@ -37,6 +37,4 @@ PRAGMA show_tables_expanded;
 
 DESCRIBE job_postings_fact;
 
-/*
-Changing the file in the github
-*/
+
